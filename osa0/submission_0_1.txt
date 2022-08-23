@@ -1,0 +1,15 @@
+HTML is a markup language which defines the structure of my content 
+- consists of elements: you can enclose or wrap different parts of the content
+to make it appear in particular manner 
+Main parts of html element:
+    --> opening tag: name of the element wrapped in opeing and closing brackets 
+    --> closing tag: states where the element ends 
+    --> content of the element: 
+    --> element: the opening tag with the closing tag and the content together comprise the element 
+    html elements can also contain attributes: 
+    --> should have: a space between it and elements name, 
+    --> attribute name followed by equal sign
+    --> atrribute value wrapped in opening and closing quotation marks 
+    you can also nest elements 
+
+    --> Kertasin paragrafit listat ja linkit 
